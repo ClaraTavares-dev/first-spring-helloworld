@@ -2,7 +2,7 @@ package com.clara.first_spring_app.service;
 
 import org.springframework.stereotype.Service;
 
-//regras de negócio.
+//regra de negócio.
 
 @Service
 public class HelloWorldService {
