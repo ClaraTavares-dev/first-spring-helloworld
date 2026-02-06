@@ -1,4 +1,4 @@
-package com.clara.first_spring_app.dominio;
+package com.clara.first_spring_app.domain;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;

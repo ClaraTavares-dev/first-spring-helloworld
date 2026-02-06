@@ -1,6 +1,6 @@
 package com.clara.first_spring_app.controller;
 
-import com.clara.first_spring_app.dominio.User;
+import com.clara.first_spring_app.domain.User;
 import com.clara.first_spring_app.service.HelloWorldService;
 import org.springframework.web.bind.annotation.*;
 
