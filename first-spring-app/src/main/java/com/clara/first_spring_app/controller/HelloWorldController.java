@@ -5,7 +5,7 @@ import com.clara.first_spring_app.service.HelloWorldService;
 import org.springframework.web.bind.annotation.*;
 
 @RestController
-@RequestMapping("/hello-world") //url
+@RequestMapping("/hello-world") //url.
 
     public class HelloWorldController {
 

@@ -4,7 +4,7 @@ import lombok.AllArgsConstructor;
 import lombok.Getter;
 import lombok.Setter;
 
-//Gerar o get, set e construtor automáticamente.
+//Gerar o get, set e construtor automáticamente
 
 @Getter
 @Setter
